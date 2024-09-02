@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TTIcodes Geography:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TTIcodes_Geography_jar</output-path>
+    <root id="archive" name="TTIcodes Geography.jar">
+      <element id="module-output" name="TTIcodes Geography" />
+    </root>
+  </artifact>
+</component>
